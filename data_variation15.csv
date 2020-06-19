@@ -1,0 +1,32 @@
+﻿cancer type,LTR,Number of initial stem cells,division rate
+acute myeloid leukemia,0.0041,1.35E+08,12
+Basal cell carcinoma,0.3,5.82E+09,7.6
+Chronic lymphocytic leukemia,0.0052,1.35E+08,12
+Colorectal adenocarcinoma,0.048,2.00E+08,73
+colorectal adenocarcinoma with FAP,1,2.00E+08,73
+Colorectal adenocarcinoma with lynch syndrom,0.5,2.00E+08,73
+duodenum adenocarcinoma,0.0003,4.00E+06,24
+Duodenum adenocarcinoma with FAP,0.035,4.00E+06,24
+Esopphageal squamous cell carcinom,0.001938,8.64E+05,17.4
+Gallbladder non papillary adenocarcinoma,0.0028,1.60E+06,0.584
+,,,
+Head & neck squamous cell carcinoma,0.0138,1.85E+07,21.5
+Head & neck squamous cell carcinoma with HPV-16,0.07935,1.85E+07,21.5
+Hepatocellular carcinoma,0.0071,3.01E+09,0.9125
+Hepatocellular carcinoma with HCV,0.071,3.01E+09,0.9125
+Lung adenocarcinoma (nonsmokers),0.0045,1.22E+09,0.07
+Lung adenocarcinoma (smokers),0.081,1.22E+09,0.07
+,,,
+Melanoma,0.0203,3.80E+09,2.48
+Osteosarcoma,0.00035,4.18E+06,0.067
+Osteosarcoma of the arms,0.00004,6.50E+05,0.067
+Osteosarcoma of the head,0.00003,8.60E+05,0.067
+Osteosarcoma of the legs,0.00022,1.59E+06,0.067
+Osteosarcoma of the pelvis,0.00003,4.50E+05,0.067
+,,,
+Pancreatic ductal adenpcarcinoma,0.013589,4.18E+09,1
+Pancreatic endocrine  carcinoma,0.000194,7.40E+07,1
+Small intestine adenocarcinoma,0.0007,1.00E+08,36
+Testicular germ cell cancer,0.0037,7.20E+06,5.8
+Thyroid papillary/follicular carcinoma,0.01026,6.50E+07,0.087
+Thyroid medullary carcinoma,0.000324,6.50E+06,0.087
